@@ -23,8 +23,8 @@ int main () {
   //mostrando os dadoscadastrado
 
   printf ("n--- carta cadastradas ---\n");
-  printf ("pais : %s\n", pais.nome);
-  printf("capital: %d\n", pais.capital);
+  printf("pais: %s\n", pais.nome);
+printf("capital: %s\n", pais.capital);
   printf ("populacao: %d\n",pais.populacao );
   printf ("area: %.2f km2\n",pais.area);
 
